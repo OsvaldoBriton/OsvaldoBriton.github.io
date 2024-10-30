@@ -1,4 +1,4 @@
-NIP-05 identifier: Brito@OsvaldoBritoNeto.github.io
+NIP-05 identifier: Brito@OsvaldoBriton.github.io
 
 Example:
-https://OsvaldoBritoNeto.github.io/.well-known/nostr.json?name=Brito
+https://OsvaldoBriton.github.io/.well-known/nostr.json?name=Brito
